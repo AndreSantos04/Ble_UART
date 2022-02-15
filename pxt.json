@@ -1,5 +1,5 @@
 {
-    "name": "UART_RW",
+    "name": "BLEuartconnection",
     "description": "",
     "dependencies": {
         "core": "*",

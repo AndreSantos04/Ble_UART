@@ -1,5 +1,5 @@
 {
-    "name": "BLEuartconnection",
+    "name": "BLE_UART",
     "description": "",
     "dependencies": {
         "core": "*",
